@@ -1,0 +1,10 @@
+FOLDER_TST: /home/testuser/tst
+FOLDER_OUT: /home/testuser/out
+FOLDER_folder1: /home/testuser/folder1
+count: 5
+size: 1M
+type: 7z
+host: "0.0.0.0"
+user: "testuser"
+passwd: "123"
+
